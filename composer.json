@@ -3,8 +3,8 @@
     "description": "Basic input fields components",
     "type": "library",
     "require": {
-        "php": "^7.3",
-        "laravel/framework": "^8.12"
+        "php": ">=7.3",
+        "laravel/framework": ">=8.12"
     },
     "license": "MIT",
     "autoload": {
